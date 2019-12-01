@@ -57,4 +57,12 @@ anything done or to be done; anything requiring action or effort; business; conc
 title: 22
 https://arxiv.org/search/?query=+affair&searchtype=title&abstracts=show&order=-announced_date_first&size=50
 
+# papers
 
+|  | arxiv | citeseerX |
+|:--|--:|--:|
+| matter | 22198 | 18466 |
+| object | 8566 | 48139 |
+| thing | 689 | 2466 |
+| substance | 75 | 4463 |
+| affair | 22 | 3067 |
