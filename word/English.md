@@ -59,10 +59,21 @@ https://arxiv.org/search/?query=+affair&searchtype=title&abstracts=show&order=-a
 
 # papers
 
-|  | arxiv | citeseerX |
-|:--|--:|--:|
-| matter | 22198 | 18466 |
-| object | 8566 | 48139 |
-| thing | 689 | 2466 |
-| substance | 75 | 4463 |
-| affair | 22 | 3067 |
+
+|  | arxiv | citeseerX | IEEE  |
+|:--|--:|--:|--:|
+| matter | 22198 | 18466 | 15049 |
+| object | 8566 | 48139 | 41279 |
+| thing | 689 | 2466 | 10822 |
+| substance | 75 | 4463 | 2028 |
+| affair | 22 | 3067 | 1437 |
+
+
+https://arxiv.org/
+http://citeseerx.ist.psu.edu/index
+https://ieeexplore.ieee.org/
+IEEEは Journal and Magazine限定。
+
+Arxivとそれ以外で最多がmatterとobjectの違いがある。
+IEEEとCiteseerXは傾向が似ている。
+thingについては、IEEEとCiteseerXで傾向が違う。
