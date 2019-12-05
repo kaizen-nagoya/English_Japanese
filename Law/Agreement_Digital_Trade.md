@@ -7,5 +7,5 @@ of the other Party to preserve and make available 13) the source code of softwar
 or an algorithm expressed in that source code, for a specific investigation, inspection, examination, enforcement action, 
 or judicial proceeding, subject to safeguards against unauthorized disclosure.
 
-13) Thismakingavailableshallnotbeconstruedtonegativelyaffectthesoftwaresourcecode’sstatusasatradesecret, 
+13) This making available shall not beconstrued tonega tively affect thes of twaresour cecode’s status as a trade secret, 
 if such status is claimed by the trade secret owner.
