@@ -550,17 +550,29 @@ property, statement
 出現用語を構造的に配置してみた。この並べ方は無限にあるかもしれず、各自の関連性でならべかえるとよい。
 
 matter - material - goods - product - ware
+
        - sutff
+       
 thing  - affair
+
        - object - subject
+       
 	   - substance - substantial
+	   
 	   - existence - sate
+	   
        - instance - case - item - article
+       
 	   - occurence -circumstance
+	   
 happening - event - incident
+
 		  - phenomenon
+		  
 		  - action - activity
+		  
 		  - process - service
+		  
 		  - fact - truth
 
 オブジェクト指向設計の中で、objectを体系化して静的に記述しようとする傾向が成功しない理由がわかるかも。
