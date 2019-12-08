@@ -45,25 +45,25 @@ https://eow.alc.co.jp/search?q=物
 matter
 object
 
-###物体
+### 物体
 https://eow.alc.co.jp/search?q=物体
 >object
 thing
 
-###物質
+### 物質
 https://eow.alc.co.jp/search?q=物質
 >material object
 matter
 substance
 
-###物件
+### 物件
 https://eow.alc.co.jp/search?q=物件
 >objects
 property 
 statement
 item
 
-###物品
+### 物品
 https://eow.alc.co.jp/search?q=物品
 >goods
 articles
@@ -71,11 +71,11 @@ object
 materials
 
 
-###物理
+### 物理
 https://eow.alc.co.jp/search?q=物理
 >physics 
 
-###事物
+### 事物
 https://eow.alc.co.jp/search?q=事物
 >things
 matter
@@ -102,7 +102,7 @@ respect
 items
 matters
 
-###事件
+### 事件
 https://eow.alc.co.jp/search?q=事件
 
 >affair
@@ -116,7 +116,7 @@ phenomenon
 happening
 
 
-###事実
+### 事実
 https://eow.alc.co.jp/search?q=事実
 >case
 fact
@@ -124,7 +124,7 @@ truth
 phenomenon
 very thing
 
-###物事
+### 物事
 https://eow.alc.co.jp/search?q=物事
 >stuff
 things
@@ -504,19 +504,33 @@ https://www.dictionary.com/browse/attention?s=t
 
 # 追記予定
  matter, object, thing, affairから始めて順次追記。
+
 ~~material, substance, substantial~~
+
 ~~event, phenomenon~~
+
 ~~fact, occurrence, circumstance~~
+
 ~~action, instance~~
+
 ~~process, state~~
+
 ~~case, existence~~
+
 ~~truth~~
+
 ~~stuff, subject~~
+
 ~~service, activity~~
+
 ~~happening, incident~~
+
 ~~article, item~~ 
+
 ~~goods, product~~
+
 ~~ware~~
+
 property, statement
 
 # まとめ（summary）: 暫定(temporary)
@@ -716,7 +730,9 @@ processが多い。service, state, object, caseの順。
 circumstance, stuff, ware, substantialが少ない。
 
 https://arxiv.org/  title指定
+
 https://citeseerx.ist.psu.edu/advanced_search　Advanced search でtitle指定。
+
 https://ieeexplore.ieee.org/search/advanced Advanced searchでTitle指定
 
 
@@ -805,6 +821,7 @@ https://qiita.com/kaizen_nagoya/items/703025e583657b8160f1
 #文書履歴(document history)
 
 
-<a href="https://b.hatena.ne.jp/entry/s/qiita.com/kaizen_nagoya/items/5f66b632ca589bb09707" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/v4/public/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+<a href="https://b.hatena.ne.jp/entry/s/qiita.com/kaizen_nagoya/items/5f66b632ca589bb09707" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/v4/public/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+
 
 https://b.hatena.ne.jp/guide/bbutton
