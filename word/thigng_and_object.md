@@ -1,3 +1,6 @@
+時間と自己
+https://researchmap.jp/jo1ovcs5s-51292/#_51292
+
 "Object", IoT(Internet of Things)の"Thing"は、IT(information technology)業界でも意味、範囲の広い言葉で、仕事の立場、役割によって、言葉の指し示す範囲が異なることがしばしばあります。
 
 色即是空ではありませんが、「物」が「物」として認識できるかどうか。
